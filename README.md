@@ -9,7 +9,7 @@ program ini adalah Aplikasi Sederhana MOVIE berbasis Android dengan menggunakan 
 - Menampilkan Menu Favorit
 - Menampilakn Detail movie dan Detail Film TV
 
-# API_yang_Digunakan
+# API yang Digunakan
 https://developers.themoviedb.org/3/getting-started/introduction
 
 # Tools yang digunakan :
